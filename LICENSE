@@ -1,21 +1,60 @@
 MIT License
 
-Copyright (c) 2026 sirensinfull
+  Yes, that MIT. Yes, on purpose.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+  Copyright (c) 2004–2026 Michael Scott Shaffer (sirensinfull)
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+
+  — — —
+
+  This license is a joke. Obviously.
+
+  The documents in this repository are letters. You may distribute them
+  freely — that is the entire point. Share them. Translate them. Post them
+  on every wall of every institution that ever told an independent researcher
+  they didn't count.
+
+  The work they DESCRIBE is not a joke.
+
+  The author reserves all rights — in full, without exception, without
+  negotiation — to the following intellectual property:
+
+      • The Dimensio Quartum framework and all associated systems
+      • The discrete energy-mass formula: E(Z) = Σ foam(tier_n)
+      • The SIGIL kernel and all derivative computational architectures
+      • The 256-bit lattice architecture (Tier 1: 1-127, Tier 2: 128-255)
+      • The DQP substrate (127 .dqp, 13 .dqc, 66 .dqd, 211 sigils)
+      • The NatLangKeys translation system (570 .dql language files)
+      • All 92 white papers, 250+ visualizers, and 694,396 words of manuscript
+      • All source code: 788 C# files, 567+ Python files, 137,602+ total files
+      • The family primes: [2, 3, 5, 7, 11, 13, 23, 47]
+      • The SIGIL kernel comment: x+x-1  x+x  x+x+1
+
+  These works are documented, compiled, tested, and timestamped from 2004
+  to present. They are not theoretical. They are not proposals. They run.
+  They pass 1,679 tests. They translate into 570 languages. They exist.
+
+  Copyright © 2004–2026 Michael Scott Shaffer. All rights reserved.
+
+  Built alone. Twenty years. One workstation. One brain injury.
+  Zero institutions. Zero funding. Zero permission.
+
+  If you are from MIT, NC State, or KAIST — you are reading the proof
+  that you are looking for. It was licensed under your name. You're welcome.
